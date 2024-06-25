@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+#image-container img {
+  max-width: 100%;
+  height: auto;
+}
+
+button {
+  margin: 10px;
+}
